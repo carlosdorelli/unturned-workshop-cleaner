@@ -1,0 +1,12 @@
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\bin\Debug\LimpadorDeModsMania.exe.config
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\bin\Debug\LimpadorDeModsMania.exe
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\bin\Debug\LimpadorDeModsMania.pdb
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\bin\Debug\LimpadorDeModsMania.xml
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.vbprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.Tela.resources
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.Resources.resources
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.vbproj.GenerateResource.cache
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.vbproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.exe
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.xml
+C:\Users\PICHAU\source\repos\LimpadorDeModsMania\LimpadorDeModsMania\obj\Debug\LimpadorDeModsMania.pdb
