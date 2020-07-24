@@ -1,6 +1,6 @@
 # Unturned Workshop Cleaner
 
-A simple program that clean all your workshop mods with just one click.
+A simple .exe that clean all your workshop mods with just one click.
 
 ## Installation
 
